@@ -1,4 +1,5 @@
 # Playground
 Repository for small practice exercises to keep my skills sharp.
 
-Currently there is an exercise that reverses arrays.
+Currently exercises:
+  1) Reversing an array
