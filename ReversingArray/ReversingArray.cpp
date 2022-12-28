@@ -5,7 +5,7 @@ using namespace std;
 void reverseArray()
 {
 	int size;//size of array
-	cout << "How many numbers will bein the array? ";
+	cout << "How many numbers will be in the array? ";
 	cin >> size;
 	int *numArray = new int[size];
 
